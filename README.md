@@ -16,7 +16,7 @@ Dioney is a simple and modern debt tracking application designed to make debt ma
 3. View and manage detailed reports for each transaction.
 
 ## Preview
-![Dioney App Screenshot](relative/path/to/your/image.png)
+![Dioney App Screenshot](assets\screenshots\1.png)
 
 
 ## Contact
