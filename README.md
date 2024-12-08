@@ -16,6 +16,32 @@ Dioney is a simple and modern debt tracking application designed to make debt ma
 3. View and manage detailed reports for each transaction.
 
 ## Preview
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/hezbr/csc_picker_plus/blob/main/screenshots/horizontal%20view.gif?raw=true"  alt="Horizontal Layout" width="240" />
+      <br><b>Horizontal Layout</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/hezbr/csc_picker_plus/blob/main/screenshots/arabic%20view.gif?raw=true"  alt="Show in Arabic Language" width="240" />
+      <br><b>Show in Arabic Language</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/hezbr/csc_picker_plus/blob/main/screenshots/vertical%20view.gif?raw=true"  alt="Vertical Layout" width="240" />
+      <br><b>Vertical Layout</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/hezbr/csc_picker_plus/blob/main/screenshots/Country%20State%20Only%20View.gif?raw=true"  alt="Country  and State Only" width="240" />
+      <br><b>Country  and State Only</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/hezbr/csc_picker_plus/blob/main/screenshots/Country%20Only%20View.gif?raw=true"  alt="Country Only" width="240" />
+      <br><b>Country Only</b>
+    </td>
+  </tr>
+</table>
 ![Dioney App Screenshot](assets\screenshots\1.png)
 
 
