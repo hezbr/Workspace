@@ -19,7 +19,7 @@ Dioney is a simple and modern debt tracking application designed to make debt ma
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/hezbr/csc_picker_plus/blob/main/screenshots/horizontal%20view.gif?raw=true"  alt="Horizontal Layout" width="240" />
+      <img src="https://github.com/hezbr/Workspace/blob/dioney_app/assets/screenshots/1.png"  alt="Horizontal Layout" width="240" />
       <br><b>Horizontal Layout</b>
     </td>
     <td align="center">
