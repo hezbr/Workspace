@@ -55,15 +55,12 @@ Below, the important screens in the application will be displayed as an introduc
 <table>
   <tr>
     <td align="center">
-        <br><br>
       <img src="https://github.com/hezbr/Workspace/blob/dioney_app/assets/screenshots/7.png?raw=true" alt="Dioney App" width="240" />
     </td>
     <td align="center">
-        <br><br>
       <img src="https://github.com/hezbr/Workspace/blob/dioney_app/assets/screenshots/8.png?raw=true" alt="Dioney App" width="240" />
     </td>
     <td align="center">
-        <br><br>
       <img src="https://github.com/hezbr/Workspace/blob/dioney_app/assets/screenshots/9.png?raw=true" alt="Dioney App" width="240" />
     </td>
   </tr>
@@ -85,17 +82,14 @@ Below, the important screens in the application will be displayed as an introduc
 <table>
   <tr>
     <td align="center">
-        <br><br>
       <img src="https://github.com/hezbr/Workspace/blob/dioney_app/assets/screenshots/12.png?raw=true" alt="Dioney App" width="240" />
       <br><b>Card Mode</b>
     </td>
     <td align="center">
-        <br><br>
       <img src="https://github.com/hezbr/Workspace/blob/dioney_app/assets/screenshots/13.png?raw=true" alt="Dioney App" width="240" />
       <br><b>Card Mode</b>
     </td>
     <td align="center">
-        <br><br>
       <img src="https://github.com/hezbr/Workspace/blob/dioney_app/assets/screenshots/14.png?raw=true" alt="Dioney App" width="240" />
       <br><b>Table Mode</b>
     </td>
@@ -299,7 +293,13 @@ Below, the important screens in the application will be displayed as an introduc
 
 ## Contact
 
-For feedback or inquiries, feel free to contact us at [eng.hezbr@gmail.com](mailto:eng.hezbr@gmail.com).
+For feedback or inquiries, feel free to contact us at 
+
+**Email:** [eng.hezbr@gmail.com](mailto:eng.hezbr@gmail.com)
+
+**GitHub:** [Hezbr Al-humaidi](https://github.com/hezbr)
+
+**LinkedIn:** [Hezbr Al-humaidi](https://www.linkedin.com/in/hezbr)
 
 
 
