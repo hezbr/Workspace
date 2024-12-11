@@ -1,5 +1,10 @@
 # Dioney App
 
+## Download Dioney App
+
+🎉 **Experience the best way to manage your debts!** 🎉  
+👉 [**Click here to download Dioney App**](https://github.com/hezbr/Workspace/releases/download/v1.0.0/Dioney.apk) 👈  
+
 [![Download Dioney App](https://img.shields.io/badge/Download-Dioney.apk-blue?style=for-the-badge)](https://github.com/hezbr/Workspace/releases/download/v1.0.0/Dioney.apk)
 
 Dioney is a simple and modern debt tracking application designed to make debt management easier for individuals and small businesses. Whether you're managing personal debts with people around you or recording customer debts for a small shop, Dioney provides a user-friendly interfaceو detailed reporting and Automatic and manual backups to preserve customer data and accounts in the application.
